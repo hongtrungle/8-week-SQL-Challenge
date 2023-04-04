@@ -58,7 +58,7 @@ This table stores all customer deposits, withdrawals and purchases made using th
 |-------------|-------------|----------|------------|
 | 429         | 2020-01-21  | deposit  | 82         | 
 | 155         | 2020-01-10  | deposit  | 712        |
-| 398         | 20210-01-01 | deposit  | 196        |
+| 398         | 2020-01-01 | deposit  | 196        |
 | 255         | 2020-01-14  | deposit  | 563        |
 | 185         | 2020-01-29  | deposit  | 626        |
 | ...         | ...         | ...      | ...        |
