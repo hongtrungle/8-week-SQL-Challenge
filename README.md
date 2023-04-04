@@ -26,7 +26,7 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 - [Click Here](https://8weeksqlchallenge.com/case-study-1/)
 
 ### My Solutions: 
-- [Click Here](https://github.com/beto1810/8_Week_SQL_Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
+- [Click Here](https://github.com/hongtrungle/8-week-SQL-Challenge-Pt1/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
 
 #
 
@@ -46,7 +46,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 - [Click Here](https://8weeksqlchallenge.com/case-study-2/)
 
 ### My Solutions:
-- [Click Here](https://github.com/beto1810/8_Week_SQL_Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)
+- [Click Here](https://github.com/hongtrungle/8-week-SQL-Challenge-Pt1/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)
 
 #
 
@@ -66,7 +66,7 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
 - [Click Here!](https://8weeksqlchallenge.com/case-study-3/)
 
 ### My Solutions:
-- [Click Here](https://github.com/beto1810/8_Week_SQL_Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi)
+- [Click Here](https://github.com/hongtrungle/8-week-SQL-Challenge-Pt1/tree/main/Case%20Study%20%233%20-%20Foodie-Fi)
 
 ## 🏦 Case Study #4 - Data-Bank
 <img width="200" src="https://8weeksqlchallenge.com/images/case-study-designs/4.png">
@@ -88,5 +88,4 @@ This case study is all about calculating metrics, growth and helping the busines
 - [Click Here!](https://8weeksqlchallenge.com/case-study-4/)
 
 ### My Solutions:
-- [Click Here](https://github.com/beto1810/8_Week_SQL_Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank)
-
+- [Click Here](https://github.com/hongtrungle/8-week-SQL-Challenge-Pt1/tree/main/Case%20Study%20%234%20-%20Data%20Bank)
