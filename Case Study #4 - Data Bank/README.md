@@ -6,7 +6,6 @@
 
 ## 📚 Table of Contents
   * [Introduction](#introduction)
-  * [Problem Statement](#problem-statement)
   * [Entity Relationship Diagram](#entity-relationship-diagram)
   * [Example Datasets](#example-datasets)
  
