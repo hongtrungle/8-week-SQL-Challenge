@@ -21,7 +21,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 <img align="center" width="500" src="https://user-images.githubusercontent.com/94410139/158216376-6b51187b-95ec-48f0-9c58-e912d9f1b035.png">
 
 ## Example Datasets
-**Table 1: runners**
+### Table 1: runners
 
 The `runners` table shows the `registration_date` for each new runner
 
@@ -33,7 +33,7 @@ The `runners` table shows the `registration_date` for each new runner
 | 4         | 2021-01-15        |     
 
 
-**Table 2: customer_orders**
+### Table 2: customer_orders
 
 Customer pizza orders are captured in the `customer_orders` table with 1 row for each individual pizza that is part of the order.
 
@@ -52,7 +52,7 @@ The `exclusions` and `extras` columns will need to be cleaned up before using th
 | 4        | 103         | 1        | 4         |        | 2021-01-04 13:23:46    |
 | ...      | ...         | ...      | ... | ... | ...                    |
 
-**Table 3: runner_orders**
+### Table 3: runner_orders
 
 After each orders are received through the system - they are assigned to a runner - however not all orders are fully completed and can be cancelled by the restaurant or the customer.
 
@@ -68,7 +68,7 @@ The pickup_time is the timestamp at which the runner arrives at the Pizza Runner
 | ...      | ...       | ... | ...      | ...        | ...          |
 
 
-**Table 4: pizza_name**
+### Table 4: pizza_name
 
 At the moment - Pizza Runner only has 2 pizzas available the Meat Lovers or Vegetarian!
 
@@ -77,7 +77,7 @@ At the moment - Pizza Runner only has 2 pizzas available the Meat Lovers or Vege
 | 1     | Meat Lovers |
 | 2     | Vegetarian |
 
-**Table 5: pizza_recipes**
+### Table 5: pizza_recipes
 
 Each `pizza_id` has a standard set of `toppings` which are used as part of the pizza recipe.
 
@@ -86,7 +86,7 @@ Each `pizza_id` has a standard set of `toppings` which are used as part of the p
 | 1     | 1, 2, 3, 4, 5, 6, 8, 10   |
 | 2     | 4, 6, 7, 9, 11, 12        |
 
-**Table 6: pizza_toppings**
+### Table 6: pizza_toppings
 
 This table contains all of the `topping_name` values with their corresponding `topping_id`value
 
