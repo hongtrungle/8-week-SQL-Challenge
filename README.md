@@ -1,5 +1,5 @@
 # 8 Week SQL Challenge PT1
-The 8 Week SQL Challenge, There are total 8 different SQL case studies, was created by Danny Ma. 
+In the 8 Week SQL Challenge, there are total 8 different SQL case studies created by Danny Ma. 
 Each case study contains a dataset with a series of questions.
 
 Visit Dannys website to find out all about the challenge, as well as different resources: 
