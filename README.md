@@ -12,6 +12,10 @@ Visit Dannys website to find out all about the challenge, as well as different r
 - [Case Study #2 - Pizza Runner](#-case-study-2---pizza-runner)
 - [Case Study #3 - Foodie-Fi](#-case-study-3---foodie-fi)
 - [Case Study #4 - Data Bank](#-case-study-4---data-bank)
+- [Case Study #5 - Data Marrt](#-case-study-5---data-mart)
+- [Case Study #6 - Clique Bait](#-case-study-6---clique-bait)
+- [Case Study #7 - Balanced Tree Clothing Co](#-case-study-7---balanced-tree-clothing-co)
+- [Case Study #8 - Fresh Segment](#-case-study-8---fresh-segments)
 #
 ## 🍜 Case Study #1 - Danny's Diner
 
@@ -89,3 +93,76 @@ This case study is all about calculating metrics, growth and helping the busines
 
 ### My Solutions:
 - [Click Here](https://github.com/hongtrungle/8-week-SQL-Challenge-Pt1/tree/main/Case%20Study%20%234%20-%20Data%20Bank)
+
+## 🛒 Case Study #5 - Data-Mart
+
+<img width="200" src="https://8weeksqlchallenge.com/images/case-study-designs/5.png">
+
+## Introduction 
+Data Mart is Danny’s latest venture and after running international operations for his online supermarket that specialises in fresh produce - Danny is asking for your support to analyse his sales performance.
+
+In June 2020 - large scale supply changes were made at Data Mart. All Data Mart products now use sustainable packaging methods in every single step from the farm all the way to the customer.
+
+Danny needs your help to quantify the impact of this change on the sales performance for Data Mart and it’s separate business areas.
+
+The key business question he wants you to help him answer are the following:
+
+  - What was the quantifiable impact of the changes introduced in June 2020?
+  - Which platform, region, segment and customer types were the most impacted by this change?
+  - What can we do about future introduction of similar sustainability updates to the business to minimise impact on sales?
+
+### Questions & Dataset
+- [Click Here!](https://8weeksqlchallenge.com/case-study-5/)
+
+### My Solutions:
+- [Click Here](https://github.com/hongtrungle/8-week-SQL-Challenge/tree/main/Case%20Study%20%235%20-%20Data%20Mart)
+
+## 🦈 Case Study #6 - Clique-Bait
+
+<img width="200" src="https://8weeksqlchallenge.com/images/case-study-designs/6.png">
+
+## Introduction
+Clique Bait is not like your regular online seafood store - the founder and CEO Danny, was also a part of a digital data analytics team and wanted to expand his knowledge into the seafood industry!
+
+In this case study - you are required to support Danny’s vision and analyse his dataset and come up with creative solutions to calculate funnel fallout rates for the Clique Bait online store.
+
+### Questions & Dataset
+- [Click Here!](https://8weeksqlchallenge.com/case-study-6/)
+
+### My Solutions:
+- [Click Here](https://github.com/hongtrungle/8-week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait)
+
+## 👕 Case Study #7 - Balanced Tree Clothing Co
+
+<img width="200" src="https://8weeksqlchallenge.com/images/case-study-designs/7.png">
+
+## Introduction
+Balanced Tree Clothing Company prides themselves on providing an optimised range of clothing and lifestyle wear for the modern adventurer!
+
+Danny, the CEO of this trendy fashion company has asked you to assist the team’s merchandising teams analyse their sales performance and generate a basic financial report to share with the wider business.
+
+### Questions & Dataset
+- [Click Here!](https://8weeksqlchallenge.com/case-study-7/)
+
+### My Solutions:
+- [Click Here](https://github.com/hongtrungle/8-week-SQL-Challenge/tree/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co%2C)
+
+## 🍊 Case Study #8 - Fresh Segments
+
+<img width="200" src="https://8weeksqlchallenge.com/images/case-study-designs/8.png">
+
+## Introduction
+Danny created Fresh Segments, a digital marketing agency that helps other businesses analyse trends in online ad click behaviour for their unique customer base.
+
+Clients share their customer lists with the Fresh Segments team who then aggregate interest metrics and generate a single dataset worth of metrics for further analysis.
+
+In particular - the composition and rankings for different interests are provided for each client showing the proportion of their customer list who interacted with online assets related to each interest for each month.
+
+Danny has asked for your assistance to analyse aggregated metrics for an example client and provide some high level insights about the customer list and their interests.
+
+### Questions & Dataset
+- [Click Here!](https://8weeksqlchallenge.com/case-study-8/)
+
+### My Solutions:
+- [Click Here](https://github.com/hongtrungle/8-week-SQL-Challenge/tree/main/Case%20Study%20%238%20-%20Fresh%20Segments)
+
